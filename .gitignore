@@ -19,7 +19,7 @@ misc/
 images/
 
 # Google service account keys (sensitive!)
-*.json
+
 micro-edge-478816-f5-5225f93c6887.json
 
 # TypeScript cache
