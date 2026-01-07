@@ -1,0 +1,29 @@
+node_modules/
+dist/
+build/
+*.log
+.env
+.env.local
+.DS_Store
+/.vscode/
+/.idea/
+
+# Generated index from classifier
+index.json
+
+# Backup and misc folders (user requested)
+backups/
+misc/
+
+# Images (usually large) — keep if you want them in the repo
+images/
+
+# Google service account keys (sensitive!)
+*.json
+micro-edge-478816-f5-5225f93c6887.json
+
+# TypeScript cache
+*.tsbuildinfo
+
+# npm
+package-lock.json
